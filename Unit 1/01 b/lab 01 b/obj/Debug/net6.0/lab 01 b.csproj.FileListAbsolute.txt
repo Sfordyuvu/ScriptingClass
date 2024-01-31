@@ -1,0 +1,15 @@
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\lab 01 b\bin\Debug\net6.0\lab 01 b.exe
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\lab 01 b\bin\Debug\net6.0\lab 01 b.deps.json
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\lab 01 b\bin\Debug\net6.0\lab 01 b.runtimeconfig.json
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\lab 01 b\bin\Debug\net6.0\lab 01 b.dll
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\lab 01 b\bin\Debug\net6.0\ref\lab 01 b.dll
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\lab 01 b\bin\Debug\net6.0\lab 01 b.pdb
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\lab 01 b\obj\Debug\net6.0\lab 01 b.csproj.AssemblyReference.cache
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\lab 01 b\obj\Debug\net6.0\lab 01 b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\lab 01 b\obj\Debug\net6.0\lab 01 b.AssemblyInfoInputs.cache
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\lab 01 b\obj\Debug\net6.0\lab 01 b.AssemblyInfo.cs
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\lab 01 b\obj\Debug\net6.0\lab 01 b.csproj.CoreCompileInputs.cache
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\lab 01 b\obj\Debug\net6.0\lab 01 b.dll
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\lab 01 b\obj\Debug\net6.0\ref\lab 01 b.dll
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\lab 01 b\obj\Debug\net6.0\lab 01 b.pdb
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\lab 01 b\obj\Debug\net6.0\lab 01 b.genruntimeconfig.cache

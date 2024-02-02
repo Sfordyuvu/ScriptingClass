@@ -1,0 +1,15 @@
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\challenge one B\bin\Debug\net6.0\challenge one B.exe
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\challenge one B\bin\Debug\net6.0\challenge one B.deps.json
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\challenge one B\bin\Debug\net6.0\challenge one B.runtimeconfig.json
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\challenge one B\bin\Debug\net6.0\challenge one B.dll
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\challenge one B\bin\Debug\net6.0\ref\challenge one B.dll
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\challenge one B\bin\Debug\net6.0\challenge one B.pdb
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\challenge one B\obj\Debug\net6.0\challenge one B.csproj.AssemblyReference.cache
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\challenge one B\obj\Debug\net6.0\challenge one B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\challenge one B\obj\Debug\net6.0\challenge one B.AssemblyInfoInputs.cache
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\challenge one B\obj\Debug\net6.0\challenge one B.AssemblyInfo.cs
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\challenge one B\obj\Debug\net6.0\challenge one B.csproj.CoreCompileInputs.cache
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\challenge one B\obj\Debug\net6.0\challenge one B.dll
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\challenge one B\obj\Debug\net6.0\ref\challenge one B.dll
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\challenge one B\obj\Debug\net6.0\challenge one B.pdb
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 b\challenge one B\obj\Debug\net6.0\challenge one B.genruntimeconfig.cache

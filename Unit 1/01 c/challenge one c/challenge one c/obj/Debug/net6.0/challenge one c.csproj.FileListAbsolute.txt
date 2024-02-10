@@ -1,0 +1,15 @@
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 c\challenge one c\challenge one c\bin\Debug\net6.0\challenge one c.exe
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 c\challenge one c\challenge one c\bin\Debug\net6.0\challenge one c.deps.json
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 c\challenge one c\challenge one c\bin\Debug\net6.0\challenge one c.runtimeconfig.json
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 c\challenge one c\challenge one c\bin\Debug\net6.0\challenge one c.dll
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 c\challenge one c\challenge one c\bin\Debug\net6.0\ref\challenge one c.dll
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 c\challenge one c\challenge one c\bin\Debug\net6.0\challenge one c.pdb
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 c\challenge one c\challenge one c\obj\Debug\net6.0\challenge one c.csproj.AssemblyReference.cache
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 c\challenge one c\challenge one c\obj\Debug\net6.0\challenge one c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 c\challenge one c\challenge one c\obj\Debug\net6.0\challenge one c.AssemblyInfoInputs.cache
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 c\challenge one c\challenge one c\obj\Debug\net6.0\challenge one c.AssemblyInfo.cs
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 c\challenge one c\challenge one c\obj\Debug\net6.0\challenge one c.csproj.CoreCompileInputs.cache
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 c\challenge one c\challenge one c\obj\Debug\net6.0\challenge one c.dll
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 c\challenge one c\challenge one c\obj\Debug\net6.0\ref\challenge one c.dll
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 c\challenge one c\challenge one c\obj\Debug\net6.0\challenge one c.pdb
+C:\Git\Repositories\DGM1400ScriptingClass\Unit 1\01 c\challenge one c\challenge one c\obj\Debug\net6.0\challenge one c.genruntimeconfig.cache

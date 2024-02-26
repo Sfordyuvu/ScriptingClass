@@ -2,37 +2,50 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-/// <summary>
-/// This is for a 2D project because I want to make more work for myself YIPEE
-/// </summary>
-
 public class PlayerController : MonoBehaviour
 {
-    //decliar variables
-[SerializeField] private float moveSpeed = 5f;
-[SerializeField] private float jumpForce = 40f;
+    private Rigidbody2D rb2D;
 
-private float xSpeed = 0f;
-private Rigidbody2D Ridg;
-private Vector3 moveDirection = Vector3.zero;
+     private float moveSpeed;
+    private float jumpForce;
+    private bool isJumping;
+    private float moveHorizontal;
+    private float moveVertical;
 
     // Start is called before the first frame update
-    void Start()
+    private void Start()
     {
-        Ridg = GetComponent<Rigidbody2D>();
+        rb2D = gameObject.GetComponent<Rigidbody2D>();
+
+        moveSpeed = 1.5f;
+        jumpForce = 10f;
+        isJumping = false;
     }
 
     // Update is called once per frame
-    void Update()
+    private void Update()
     {
+        moveHorizontal = Input.GetAxisRaw("Horizontal");
+        moveVertical = Input.GetAxisRaw("Vertical");
+    }
 
-        if(Input.GetButtonDown("Jump")){ //jump input
-            Ridg.velocity += new Vector2(0f, jumpForce); //adds jump force to total velocity of the rigidbody
+    private void FixedUpdate(){
+        if (moveHorizontal > 0.1f || moveHorizontal < -0.1f){
+            rb2D.AddForce(new Vector2(moveHorizontal * moveSpeed, 0f), ForceMode2D.Impulse);
         }
-        xSpeed = Input.GetAxisRaw("Horizontal") * moveSpeed; //gets user input and multiplies by movespeed
-        Vector3 targetVelocity = new Vector2(xSpeed, Ridg.velocity.y); //assigns both x and y velocity to one variable
-        Ridg.velocity = targetVelocity; //assigns the velocity to the rigid body
-        
-        
+        if (!isJumping && moveVertical > 0.1f){
+            rb2D.AddForce(new Vector2(0f, moveVertical * jumpForce), ForceMode2D.Impulse);
+        }
+    }
+    private void OnTriggerEnter2D(Collider2D collision){
+        if(collision.gameObject.tag == "Platform"){
+            isJumping = false;
+        }
+    }
+    private void OnTriggerExit2D(Collider2D collision){
+        if(collision.gameObject.tag == "Platform"){
+            isJumping = true;
+        }
     }
 }
+

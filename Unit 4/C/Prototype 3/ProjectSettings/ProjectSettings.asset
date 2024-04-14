@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 2d4c3b7aacab8d840ae5ff968c8016a0
+  productGUID: 0e156e8d7b327cb4a90ab4274b346321
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -246,7 +246,7 @@ PlayerSettings:
   iOSAutomaticallyDetectAndAddCapabilities: 1
   appleEnableProMotion: 0
   shaderPrecisionModel: 0
-  clonedFromGUID: 184cff72e74f1794dbaaea55febe36b3
+  clonedFromGUID: 48ab21b7b7ad4534ca22b1876730b275
   templatePackageId: 
   templateDefaultScene: Assets/Scenes/SampleScene.unity
   useCustomMainManifest: 0
@@ -748,7 +748,7 @@ PlayerSettings:
   cloudProjectId: bb113594-96f6-4681-be68-172b858fe61a
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Prototype 3
+  projectName: 
   organizationId: sfordyuvu
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

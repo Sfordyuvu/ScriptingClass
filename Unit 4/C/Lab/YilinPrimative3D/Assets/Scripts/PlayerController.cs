@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour
     private bool isOnGround = true;
     public float jumpForce;
     public float gravityModifier;
+    public float maxSpeed = 30f;
     // Start is called before the first frame update
     void Start()
     {
@@ -27,8 +28,10 @@ public class PlayerController : MonoBehaviour
             playerRb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
             isOnGround = false;
         }
-
-        playerRb.AddForce(Vector3.right * horizontalInput);
+        if(playerRb.velocity.magnitude < maxSpeed && isOnGround){
+            playerRb.AddForce(Vector3.right * horizontalInput);
+        }
+        
         Debug.Log(isOnGround);
     }
 

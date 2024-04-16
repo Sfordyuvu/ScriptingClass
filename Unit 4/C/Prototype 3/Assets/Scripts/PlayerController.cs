@@ -31,6 +31,7 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space) && isOnGround && !gameOver){
             playerRb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
             isOnGround = false;
+            //animation
             dirtParticle.Stop();
             playerAnim.SetTrigger("Jump_trig");
             playerAudio.PlayOneShot(jumpSound, 1.0f);
@@ -40,10 +41,12 @@ public class PlayerController : MonoBehaviour
     private void OnCollisionEnter(Collision collision){
         if (collision.gameObject.CompareTag("Ground")){
             isOnGround = true;
+            //animation
             dirtParticle.Play();
         } else if (collision.gameObject.CompareTag("Obstacle")){
             gameOver = true;
             Debug.Log("Game Over!");
+            //animation
             dirtParticle.Stop();
             playerAnim.SetBool("Death_b", true);
             playerAnim.SetInteger("DeathType_int", 1);

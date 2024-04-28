@@ -27,12 +27,9 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space) && isOnGround){
             playerRb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
             isOnGround = false;
-        }
-        if(playerRb.velocity.magnitude < maxSpeed && isOnGround){
-            playerRb.AddForce(Vector3.right * horizontalInput);
+            
         }
         
-        Debug.Log(isOnGround);
     }
 
     private void OnCollisionEnter(Collision collision){

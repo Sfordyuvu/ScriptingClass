@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: b454e05b1bfe50a429827e7d372373bd
+  productGUID: 809861d2e6a64f54b93efcdff156d79f
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -748,7 +748,7 @@ PlayerSettings:
   cloudProjectId: d4ee5089-3fdf-460b-b2b4-d1e68675c5b1
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Prototype 5
+  projectName: 
   organizationId: sfordyuvu
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
